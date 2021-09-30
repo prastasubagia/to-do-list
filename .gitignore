@@ -32,3 +32,5 @@ todo_list-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# mix lock file
+mix.lock
